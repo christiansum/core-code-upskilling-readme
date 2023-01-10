@@ -28,7 +28,7 @@ Challenges
   }
 
 + ### Smallest Integer In Array  
-  Solution 1
+  Solution
   ```javascript
   class SmallestIntegerFinder {
     findSmallestInt(args) {
@@ -38,7 +38,7 @@ Challenges
   ```
   
 + ### Odd or Even
-  Solution 1
+  Solution
   ```javascript
   function oddOrEven(array) {
     if (array==[]) return 'even';

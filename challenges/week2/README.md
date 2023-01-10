@@ -1,11 +1,34 @@
-# Week 1
+# Week 2
 
 ---
 
 Challenges
-+ Challenge 1  
-  Line1   
-  Line2  
++ ### Is Palindrome?  
+  Solution  
+  ```javascript
+  function isPalindrome(line) {
+    return line.toString().split("").reverse().join("").toString() === line.toString();
+  }
+  ```
+  ![](../img/w2c1.png)
+
++ ### Well Of Ideas
+  Solution
+  ```javascript
+  function well(x){
+    let val = x.filter(val => val === "good").length;
+    return  val > 0 ? (val > 2 ? 'I smell a series!' : 'Publish!'):'Fail!';
+  }
+  ```
+
++ ### React Manage Events
+  Solution
   ```javascript
   ```
-  ![](/christiansum/core-code-upskilling-readme/w1c1.png)
+
++ ### React Santa Wish List
+  Solution
+  ```javascript
+  ```
+
+  
