@@ -5,13 +5,19 @@
 Challenges
 + ### Build Search Filter In React  
   Solution    
-  + [Solution App](w3c1/App.js)
+  + [Solution File Code](w3c1/App.js)
 
-+ ### Build Search Filter In React
++ ### Fetch Random User Data
   Solution
-  + [Solution App](w3c2/App.js)
+  + [Solution File Code](w3c2/App.js)
 
-+ ### Build Search Filter In React
++ ### React Router Blog
   Solution
-  + [Solution App](w3c2/App.js)
+  + [Solution File Code](w3c3/App.js)
+
++ ### Redux lecture
+  Solution
+  + [Solution File Code](w3c4/App.js)
+  
+
   ![](/christiansum/core-code-upskilling-readme/w1c1.png)
